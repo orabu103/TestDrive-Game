@@ -39,9 +39,9 @@ It is built so that once a node is built it automatically builds a traffic light
    <img src="./Photos/Level screen photos/TrafficLights.png" width="350" title="hover text"></li>
    <li><strong> Level 6 - </strong> The purpose of this level is to teach the player the speed of travel on different roads <br>
    <img src="./Photos/Level screen photos/SpeedLimit.png" width="350" title="hover text"></li>
-   <li><strong> Level 7 - </strong> <br>
+   <li><strong> Level 7 - </strong> The purpose of this level is to teach the player about forward rights at the intersection without a traffic light<br>
    <img src="./Photos/Level screen photos/rightOfWay.png" width="350" height="200px title="hover text"></li>
-   <li><strong> Level 8 - </strong> <br>
+   <li><strong> Level 8 - </strong> The purpose of this level is to teach the player how to act as he approaches a crosswalk<br>
    <img src="./Photos/Level screen photos/Pedestrian level.png" width="350" title="hover text"></li>
    <li><strong> Level 9 - </strong> The purpose of this level is to test the player in all the rules he has learned during the stages, if the player succeeds he gets a driver's license <br>
    <img src="./Photos/Level screen photos/TestDrive.png" width="350" title="hover text"></li>
