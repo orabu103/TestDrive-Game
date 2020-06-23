@@ -34,7 +34,7 @@ It is built so that once a node is built it automatically builds a traffic light
    <li><strong> Level 3 - </strong>The purpose of this level is to teach the player how to control the vehicle, by switching between cones, and controlling emergency braking<br>
    <img src="./Photos/Level screen photos/CarContoller_or.png" width="350" title="hover text"> </li>
    <li><strong> Level 4 - </strong> The purpose of this level is to teach the player about a stop sign, the player must stop the car and wait one second and only then continue drive<br>
-   <img src="./Photos/Level screen photos/StopSign.png" width="350" title="hover text"></li>
+   <img src="./Photos/Level screen photos/Annotation 2020-06-23 142850.png" width="350" title="hover text"></li>
    <li><strong> Level 5 - </strong> The purpose of this level is to teach the player about forward rights at the intersection without a traffic light<br>
    <img src="./Photos/Level screen photos/TrafficLights.png" width="350" title="hover text"></li>
    <li><strong> Level 6 - </strong> The purpose of this level is to teach the player the speed of travel on different roads <br>
