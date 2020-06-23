@@ -27,14 +27,23 @@ It is built so that once a node is built it automatically builds a traffic light
 </p>
 <p>
 <ul>
-   <li><strong> Level 1 - </strong> The purpose of this level is to explain to the player how to use the car ,By explaining in detail what each button does.</li>
-   <li><strong> Level 2 - </strong> The purpose of this level is to explain to the law player about driving in a right lane</li>
-   <li><strong> Level 3 - </strong>The purpose of this level is to teach the player how to control the vehicle, by switching between cones, and controlling emergency braking</li>
-   <li><strong> Level 4 - </strong> </li>
-   <li><strong> Level 5 - </strong></li>
-   <li><strong> Level 6 - </strong></li>
-   <li><strong> Level 7 - </strong></li>
-   <li><strong> Level 8 - </strong></li>
-   <li><strong> Level 9 - </strong> The purpose of this level is to test the player in all the rules he has learned during the stages, if the player succeeds he gets a driver's license</li>
+   <li><strong> Level 1 - </strong> The purpose of this level is to explain to the player how to use the car ,By explaining in detail what each button does.<br>
+   <img src="./Photos/Level screen photos/CarController.png" width="350" title="hover text"></li>
+   <li><strong> Level 2 - </strong> The purpose of this level is to explain to the law player about driving in a right lane<br>
+   <img src="./Photos/Level screen photos/RightLane.png" width="350" title="hover text">
+   <li><strong> Level 3 - </strong>The purpose of this level is to teach the player how to control the vehicle, by switching between cones, and controlling emergency braking<br>
+   <img src="./Photos/Level screen photos/CarContoller_or.png" width="350" title="hover text"> </li>
+   <li><strong> Level 4 - </strong> The purpose of this level is to teach the player about a stop sign, the player must stop the car and wait one second and only then continue drive<br>
+   <img src="./Photos/Level screen photos/StopSign.png" width="350" title="hover text"></li>
+   <li><strong> Level 5 - </strong> The purpose of this level is to teach the player about forward rights at the intersection without a traffic light<br>
+   <img src="./Photos/Level screen photos/TrafficLights.png" width="350" title="hover text"></li>
+   <li><strong> Level 6 - </strong> The purpose of this level is to teach the player the speed of travel on different roads <br>
+   <img src="./Photos/Level screen photos/SpeedLimit.png" width="350" title="hover text"></li>
+   <li><strong> Level 7 - </strong> <br>
+   <img src="./Photos/Level screen photos/rightOfWay.png" width="350" height="200px title="hover text"></li>
+   <li><strong> Level 8 - </strong> <br>
+   <img src="./Photos/Level screen photos/Pedestrian level.png" width="350" title="hover text"></li>
+   <li><strong> Level 9 - </strong> The purpose of this level is to test the player in all the rules he has learned during the stages, if the player succeeds he gets a driver's license <br>
+   <img src="./Photos/Level screen photos/TestDrive.png" width="350" title="hover text"></li>
 </ul>
 </p>
