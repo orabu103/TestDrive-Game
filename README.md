@@ -25,4 +25,16 @@ The main purpose of the game is to teach the player the rules of driving while d
 It is built so that once a node is built it automatically builds a traffic light system for it <a href=".
 /Assets/RoadArchitect/"> Road Architect asset </a>.
 </p>
-
+<p>
+<ul>
+   <li><strong> Level 1 - </strong> The purpose of this level is to explain to the player how to use the car ,By explaining in detail what each button does.</li>
+   <li><strong> Level 2 - </strong> The purpose of this level is to explain to the law player about driving in a right lane</li>
+   <li><strong> Level 3 - </strong>The purpose of this level is to teach the player how to control the vehicle, by switching between cones, and controlling emergency braking</li>
+   <li><strong> Level 4 - </strong> </li>
+   <li><strong> Level 5 - </strong></li>
+   <li><strong> Level 6 - </strong></li>
+   <li><strong> Level 7 - </strong></li>
+   <li><strong> Level 8 - </strong></li>
+   <li><strong> Level 9 - </strong> The purpose of this level is to test the player in all the rules he has learned during the stages, if the player succeeds he gets a driver's license</li>
+</ul>
+</p>
