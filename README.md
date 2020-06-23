@@ -6,7 +6,7 @@
 <strong>TestDrive lets the player learn the rules of driving while driving a sports car</strong><br>
 
 
-<img src="./startgame.gif" width="500px" height="300px" /> <br>
+<img src="./startgmae.gif" width="500px" height="300px" /> <br>
 The main purpose of the game is to teach the player the rules of driving while driving, and with a combination of particularly challenging steps </p>
 
 <h4>Features -</h4>
